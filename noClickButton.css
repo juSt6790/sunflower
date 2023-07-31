@@ -39,6 +39,6 @@ button {
     border-radius: 10px;
 }
 
-.no:hover {
+.yes:hover {
     translate: 80px;
 }
